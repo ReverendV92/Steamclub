@@ -1,0 +1,15 @@
+
+lightmappedgeneric
+{
+
+	$basetexture valve/de_piranesi/pi_wood1_d
+	$bumpmap dev/bump_normal
+
+	$surfaceprop wood
+
+	$detail rwtp/detail/dt_wood1
+	$detailscale 1
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+}

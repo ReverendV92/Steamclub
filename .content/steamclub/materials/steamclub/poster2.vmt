@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture steamclub/poster2_d
+	$bumpmap dev/bump_normal
+
+	$surfaceprop wood_solid
+
+}

@@ -1,0 +1,17 @@
+
+lightmappedgeneric
+{
+
+	$basetexture valve/de_chateau/curtain01b_d
+	$bumpmap dev/bump_normal
+
+	$translucent 1
+
+	$surfaceprop paper
+
+	// $detail detail/infra/detail_wood_001
+	// $detailscale 4
+	// $detailblendfactor 0.8
+	// $detailblendmode 0
+
+}

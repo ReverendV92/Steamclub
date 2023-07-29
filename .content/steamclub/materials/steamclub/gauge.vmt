@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture steamclub/gauge_d
+	$bumpmap dev/bump_normal
+
+	$surfaceprop metal_barrel
+
+}

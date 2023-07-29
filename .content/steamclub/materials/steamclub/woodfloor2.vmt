@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture steamclub/woodfloor2_d
+	$bumpmap dev/bump_normal
+
+	$surfaceprop wood
+
+}

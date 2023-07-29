@@ -1,0 +1,18 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/custom/bar_beerpump_d
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$surfaceprop metal_box
+	$halflambert 1
+	$ambientocclusion 1
+
+	$envmap env_cubemap
+	$basealphaenvmapmask 1
+	$envmaptintsaturation 0.33
+	$envmapcontrast 0.5
+
+}

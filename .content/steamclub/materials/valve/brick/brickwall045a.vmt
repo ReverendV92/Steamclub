@@ -1,0 +1,20 @@
+
+// Valve @ original shader
+// V92 @ remaster
+
+lightmappedgeneric
+{
+
+	$basetexture brick/brickwall045a
+	$bumpmap dev/bump_normal
+
+	$surfaceprop brick
+
+	$detail detail/bms/bm_cinderblock_detail_01
+	$detailscale 7.740
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+	%keywords "hl2, brick, wall, brickwall, 045, detail, c17downtown, wasteland"
+
+}

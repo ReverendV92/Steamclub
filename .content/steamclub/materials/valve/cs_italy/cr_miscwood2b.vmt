@@ -1,0 +1,15 @@
+
+lightmappedgeneric
+{
+
+	$basetexture valve/cs_italy/cr_miscwood2b_d
+	$bumpmap dev/bump_normal
+
+	$surfaceprop wood
+
+	$detail detail/dt_stone1
+	$detailscale 4
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+}

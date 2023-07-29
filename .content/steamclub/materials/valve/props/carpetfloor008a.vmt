@@ -1,0 +1,17 @@
+
+lightmappedgeneric
+{
+
+	$basetexture props/carpetfloor008a
+	$bumpmap dev/bump_normal
+
+	$surfaceprop carpet
+
+	$detail detail/noise_detail_01
+	$detailscale 8
+	$detailblendfactor 0.3
+	$detailblendmode 0
+
+	%keywords "combine,carpet,hl2"
+
+}
