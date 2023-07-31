@@ -12,3 +12,7 @@ I have made some edits to optimize the map, and packed the custom content loose 
 * gm_jimmy - [Original Map](https://garrysmods.org/download/10879), [Facepunch Thread](http://www.facepunch.com/threads/1081287-Steamclub_v1)
 * [Counter-Strike: Source](https://store.steampowered.com/app/240/) - Content
 * [V92](https://steamcommunity.com/profiles/76561197998218505) - Fixes, edits, map icon
+
+# Other Versions
+* [Garry's Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=482894003)
+* [Original Map](https://garrysmods.org/download/10879)
